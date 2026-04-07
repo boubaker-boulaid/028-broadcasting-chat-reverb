@@ -1,4 +1,3 @@
-resources/views/chat.blade.php
 <!DOCTYPE html>
 <html>
 
